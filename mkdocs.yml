@@ -1,0 +1,49 @@
+#an overview of the options to use with future projects
+#only for mkdocs-material!!!!
+# Project information
+site_name: 'Martin Kaptein'
+##apparently the pages bit is not really neccessary with current theme
+pages:
+    - Home: index.md
+    - About: about.md
+    - Media: media.md
+    - Contact: contact.md
+site_description: 'This is the website of Martin Kaptein.'
+site_author: 'Martin Kaptein'
+site_url: 'https://martinkaptein.github.io/'
+
+# Repository
+#repo_name: 'my-github-handle/my-project'
+#repo_url: 'https://github.com/my-github-handle/my-project'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Martin Kaptein'
+
+# Documentation and theme
+theme_dir: 'mkdocs-material/material'
+
+# Options
+extra:
+  logo: 'images/logo_white.png'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/martin.kaptein'
+    - type: 'twitter'
+      link: 'https://twitter.com/MartinKaptein/'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/martinkaptein'
+
+# Google Analytics
+google_analytics:
+  - 'UA-86096566-1'
+  - 'auto'
+  
+#100 percent necessary extension >> include 'title: <content> or description: <content>' above in each .md file to override
+markdown_extensions:
+  - meta
