@@ -26,7 +26,7 @@ theme_dir: 'mkdocs-material/material'
 
 # Options
 extra:
-  logo: 'images/logo_white.png'
+  logo: 'images/multimedia.png'
   palette:
     primary: 'indigo'
     accent: 'light blue'
