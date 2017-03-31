@@ -2,7 +2,9 @@ title: F. Liszt b minor sonata analysis
 description: This is Martin Kaptein's analysis of the famous b minor Sonata by Franz Liszt.
 
 # F. Liszt b minor Sonata Analysis
-*By Martin Kaptein*
+**March 30, 2017**
+
+*Written by Martin Kaptein*
 
 
 ![Portrait of Franz Liszt](../images/liszt_portrait.jpg)
@@ -14,7 +16,7 @@ description: This is Martin Kaptein's analysis of the famous b minor Sonata by F
 *Before I begin with the analysis I would like to make clear that my view towards this Sonata is very biased as, having played this piece myself, I am a huge fan of this Sonata (it is one of my favourite pieces ever composed for piano). Furthermore, there is a chance that not all information is correct (depends somewhat on your definition of 'correct'), so you have been warned.*
 
 
-Along with Beethoven’s Hammerklavier and Schubert’s Wanderer Fantasie, the B minor Sonata of Franz Liszt is, with its duration of about 30 minutes one of the, technically and musically most difficult and elaborate Piano Sonata composition if the 19th century.
+Along with Beethoven’s Hammerklavier and Schubert’s Wanderer Fantasie, the B minor Sonata of Franz Liszt is, with its duration of about 30 minutes one of the, technically and musically most difficult and elaborate Piano Sonata composition of the 19th century.
 
 ### Historic context
 The sonata was published in the spring of 1854 (performed ’57) and dedicated to Robert Schumann. Liszt meant this as a reciprocal gesture to Schumann in response to his being the dedicatee of the latter’s Fantasy in C major (1839), a work that Liszt described as sublime.
@@ -110,6 +112,3 @@ This chord progression has a very special effect and is, probably, one of the mo
 As you have, probably, noticed, it is impossible to make a black - white kind of analysis of this sonata, which makes it really intresting.
 
 In my opinion, this music isn’t meant to be nice music in a narrow sense, but it tells a story. It’s up to the performer and the listener to understand it.
-
-
-*Written by Martin Kaptein*
