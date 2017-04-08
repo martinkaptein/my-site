@@ -22,7 +22,9 @@ site_url: 'https://martinkaptein.github.io'
 copyright: 'Copyright &copy; 2017 Martin Kaptein'
 
 # Documentation and theme
-theme_dir: 'mkdocs-material/material'
+#if cloned from github
+#theme_dir: 'mkdocs-material/material'
+theme: 'material'
 
 # Options
 extra:
@@ -30,7 +32,7 @@ extra:
   #disqus: 'martinkaptein'
   palette:
     primary: 'indigo'
-    accent: 'light blue'
+    accent: 'indigo'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'

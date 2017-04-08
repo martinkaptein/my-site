@@ -1,10 +1,11 @@
 title: F. Liszt b minor sonata analysis
 description: This is Martin Kaptein's analysis of the famous b minor Sonata by Franz Liszt.
 
-# F. Liszt b minor Sonata Analysis
-**March 30, 2017**
+*March 30, 2017*
 
-*Written by Martin Kaptein*
+By **Martin Kaptein**
+***
+# F. Liszt b minor Sonata Analysis
 
 
 ![Portrait of Franz Liszt](../images/liszt_portrait.jpg)
