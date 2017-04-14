@@ -5,11 +5,13 @@ site_name: 'Martin Kaptein'
 ##apparently the pages bit is not really neccessary with current theme
 pages:
     - Home: index.md
-    - About: about.md
     - Media: media.md
     - Blog:
         - Liszt Sonata Analysis: blog/liszt-sonata-analysis.md
     - Contact: contact.md
+    - IT Projects: 
+        - Python Blog Generator: projects/pythoncms.md
+        
 site_description: 'This is the website of Martin Kaptein.'
 site_author: 'Martin Kaptein'
 site_url: 'https://martinkaptein.github.io'

@@ -1,10 +1,12 @@
-title: Contact me - Martin Kaptein
+title: Contact - Martin Kaptein
 description: Contact page of Martin Kaptein.
 
-# Contact me
+# Contact
 
 Here you will find the contact information.
-I will be very happy to hear from you!
+Contact me by mail or by any social network.
+
+I will be happy to hear from you!
 
 ## Mail
 
