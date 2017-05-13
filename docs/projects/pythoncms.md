@@ -41,6 +41,8 @@ Clone the PythonCMS repository into the directory of your future site (or blog):
     git clone https://github.com/martinkaptein/pythonCMS.git
     cd pythonCMS
     
+Alternatively you can [download the PythonCMS zip archive here](https://github.com/martinkaptein/pythonCMS/archive/master.zip).
+    
 ### Customizing the main page
 
 Edit the `index.html` file in the root of the directory. This will become the main page of the blog (or site).
@@ -93,6 +95,10 @@ Since PythonCMS is fully portable this is possible without problems.
 I even included a `robots.txt` to exclude the drafts from being indexed by search engines.
 
 Done!
+
+![Running PythonCMS from Terminal](../images/pythoncms_terminal.jpg)
+
+*Running PythonCMS from Terminal*
 
 ## Theming
 
