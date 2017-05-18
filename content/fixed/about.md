@@ -1,11 +1,20 @@
-title: Home - Martin Kaptein
-description: My name is Martin Kaptein and I am from the Netherlands. I am a technology enthusiast and a software programmer. Furthermore, I am a very passionate musician and pianist.
++++
+date = "2017-05-18T14:32:37+02:00"
+description = "My name is Martin Kaptein and I am from the Netherlands. I am a technology enthusiast and a software programmer. Furthermore, I am a very passionate musician and pianist."
+draft = false
+slug = "about"
+title = "About"
+
++++
+
+
+
 
 # Welcome to my Website!
 
 ## My name is Martin Kaptein and I am from the Netherlands
 
-![Portrait style picture of Martin Kaptein](images/martinkaptein_portrait.jpg) 
+![Portrait style picture of Martin Kaptein](/images/martinkaptein_small.jpg) 
 
 *Martin Kaptein*
 
@@ -16,7 +25,7 @@ description: My name is Martin Kaptein and I am from the Netherlands. I am a tec
 I am a technology enthusiast and a software programmer. I build stuff in my free time, some of which you can find on [my Github profile](https://github.com/martinkaptein/). I also create websites and want to build an AI.
 
 Furthermore, I am a very passionate musician and pianist. Currently, I am studying classical music in the Netherlands and regularly give concerts on demand.
-[Contact me](contact.md) for information about my current repertoire and other requests. Also, feel free to take a look at [my YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear me playing.
+Contact me for information about my current repertoire and other requests. Also, feel free to take a look at [my YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear me playing.
 
 ***
 
@@ -34,11 +43,11 @@ Currently, for my bachelor studies, I am studying classical music for the subjec
 
 I have experience with a wide variety of different technologies, especially Javascript and Python.
 Also, I have extended knowledge of [Wordpress](https://jekyllrb.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
-By the way, I have even [build my own static site generator](projects/pythoncms.md).
+By the way, I have even build my own static site generator.
 
 Besides that, I am familiar with:
 
-- [Creating websites](contact.md)
+- Creating websites
 - PHP & MySQL
 - HTML5
 - GIT version control

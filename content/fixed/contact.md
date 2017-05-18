@@ -1,5 +1,13 @@
-title: Contact - Martin Kaptein
-description: Contact page of Martin Kaptein.
++++
+date = "2017-05-18T18:12:18+02:00"
+description = "Contact information for Martin Kaptein."
+draft = false
+slug = "contact"
+title = "Contact"
+
++++
+
+
 
 # Contact
 

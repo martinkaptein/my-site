@@ -1,14 +1,18 @@
-title: F. Liszt b minor sonata analysis
-description: This is Martin Kaptein's analysis of the famous b minor Sonata by Franz Liszt.
++++
+date = "2017-05-18T13:39:10+02:00"
+description = "This is Martin Kaptein's analysis of the famous b minor Sonata by Franz Liszt."
+draft = false
+title = "F. Liszt b minor sonata analysis"
+slug = "liszt-sonata-analysis"
++++
 
-*March 30, 2017*
 
-By **Martin Kaptein**
-***
+
+
 # F. Liszt b minor Sonata Analysis
 
 
-![Portrait of Franz Liszt](../images/liszt_portrait.jpg)
+![Portrait of Franz Liszt](/images/liszt_portrait.jpg)
 
 *Maestro Franz Liszt*
 
@@ -58,7 +62,7 @@ It is likely that Liszt derived the idea of thematic transformation as a unifyin
 This is all possible because every single movement is built around the same motif, which is itself derived from the opening phrase of Schubert’s lied Der Wanderer. It’s very clear that it was a source of inspiration for Liszt. Also, just as in the Liszt Sonata, the four movements are played without a break.
 
 ### Formal structure
-![Table of the formal structure of the sonata](../images/formal_structure_table.jpg)
+![Table of the formal structure of the sonata](/images/formal_structure_table.jpg)
 
 *Here is a table which shows my approximation of the formal structure (although there are many other possibilities as claimed by theorists such as Newman or Winklhofer). Numbers are the Bars, for idea of proportion.*
 
@@ -77,7 +81,7 @@ By the way this theme is later transformed into the 2nd Subordinate theme.  Ever
 The epilogue (last page in the Emil von Sauer edition) consist of the same motifs as the prologue but in a different key and in reverse order. This, kind of makes this piece symmetrical and, probably, has a symbolic meaning of returning to the same point (beginning>>ending) after a long journey.
 
 
-![Theme overview of the Sonata](../images/theme_overview_sonata.jpg)
+![Theme overview of the Sonata](/images/theme_overview_sonata.jpg)
 
 *To help make myself clear, here is an overview of the themes and the keys.*
 

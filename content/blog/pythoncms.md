@@ -1,5 +1,12 @@
-title: PythonCMS - A static blog and site generator
-description: PythonCMS is a static blog and site generator, written in Python 3, which is fully portable and very easy to use.
++++
+date = "2017-05-18T13:27:25+02:00"
+title = "PythonCMS - A static blog and site generator"
+description = "PythonCMS is a static blog and site generator, written in Python 3, which is fully portable and very easy to use."
+draft = false
+slug = "pythoncms"
++++
+
+
 
 # PythonCMS - Static Blog Generator
 
@@ -12,7 +19,7 @@ PythonCMS is a static blog and site generator, written in Python 3, which is ful
 
 ***
 
-![PythonCMS blog entry example screenshot](../images/pythoncms_in_action.jpg)
+![PythonCMS blog entry example screenshot](/images/pythoncms_in_action.jpg)
 
 *An example post using PythonCMS*
 
@@ -96,7 +103,7 @@ I even included a `robots.txt` to exclude the drafts from being indexed by searc
 
 Done!
 
-![Running PythonCMS from Terminal](../images/pythoncms_terminal.jpg)
+![Running PythonCMS from Terminal](/images/pythoncms_terminal.jpg)
 
 *Running PythonCMS from Terminal*
 
@@ -105,7 +112,7 @@ Done!
 This is the easy part!
 Basically you can change everything **except**:
 
-- ` $InsertLatestPostBelow `  (in the root `index.html`) since it's required for PythonCMS to generate the menu system
+- ` $InsertLatestPostBelow `  (in the root `index.html`) since it's required for PythonCMS to generate the menu system (feel free to relocate it)
 - For styling and javascript, make sure `draft.html` links 2 levels up:
 
 Like this:
