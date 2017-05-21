@@ -1,16 +1,17 @@
 +++
 date = "2017-05-18T14:32:37+02:00"
-description = "My name is Martin Kaptein and I am from the Netherlands. I am a technology enthusiast and a software programmer. Furthermore, I am a very passionate musician and pianist."
+description = "My name is Martin Kaptein and I am from the Netherlands. I am a technology enthusiast and a software programmer. Furthermore, I am a very passionate musician and pianist. Martin Kaptein has a lot of experience in playing solo concerts but also playing in ensembles. Furthermore, Martin Kaptein participates frequently in competitions, masterclasses and festivals in different countries."
 draft = false
-slug = "about"
 title = "About"
+slug = "about"
+
 
 +++
 
 
 
 
-# Welcome to my Website!
+# Welcome to my Website and Blog!
 
 ## My name is Martin Kaptein and I am from the Netherlands
 
