@@ -1,4 +1,4 @@
-baseurl             = "https://martin.netlify.com/"
+baseurl             = "https://martinkaptein.github.io/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -11,7 +11,7 @@ title               = "Martin Kaptein"
 pygmentsuseclasses  = true
 disqusshortname     = "martinkaptein" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-86096566-2"
+googleAnalytics     = "UA-86096566-1"
 
 [permalinks]
 fixed = ":title/"
