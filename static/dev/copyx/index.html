@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Copy X times</title>
+<meta name="description" content="A very simple tool to copy a string x times."/>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o)
+            , m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-86096566-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</head>
+<body>
+<center>
+<h2>Result:</h2>
+<textarea id="Output" style="width:250px;height:250px;"></textarea>    
+<script type="text/javascript">
+var confirm = confirm("Start programm?");
+if (confirm == true) {
+    var text = prompt("Please enter your text");
+    var x = parseInt(prompt("Copy how many times?"));
+    var separator = prompt("Enter separator char (default <break>)","\n")
+    var output = document.getElementById("Output");
+    
+    for (i = 0; i < x; i++) {
+        output.value += text+separator;
+        console.log(i);
+    }
+    
+} else {
+    history.back();
+}
+</script>
+</center>
+</body>
+</html>

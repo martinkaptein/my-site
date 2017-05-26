@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Random string generator</title>
+<meta name="description" content="A very simple yet powerful random string generator."/>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o)
+            , m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-86096566-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</head>
+<body>
+<center>
+<h1>Random string Generator</h1>
+<h4>By Martin Kaptein<br>@MartinKaptein (Instagram and Twitter)</h4>
+<br><br>
+<h3>How long should the string be?</h3>
+<h4>Enter the length here:</h4>
+<input type="number" id="UserInput"><br><br>
+<input type="button" value="Generate" onclick="start();"><br><br><br>
+<h2>Result:</h2>
+<textarea id="GeneratorOutput" style="width:250px;height:250px;"></textarea>
+<script type="text/javascript">
+function start () {
+    var DesiredStringLength;
+    DesiredStringLength = document.getElementById("UserInput").value;
+    DesiredStringLength = parseInt(DesiredStringLength);
+    function rand(length,current){
+    current = current ? current : '';
+    return length ? rand( --length , "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".charAt( Math.floor( Math.random() * 62 ) ) + current ) : current;//bak 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    }
+    var result = rand(DesiredStringLength);
+    var PrintResult = document.getElementById("GeneratorOutput");
+    PrintResult.value = result;
+}
+
+    
+
+</script>
+
+</center>
+</body>
+</html>
