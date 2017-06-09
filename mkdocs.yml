@@ -1,0 +1,63 @@
+#an overview of the options to use with future projects
+#only for mkdocs-material!!!!
+# Project information
+site_name: 'Martin Kaptein'
+##apparently the pages bit is not really neccessary with current theme
+pages:
+    - Home: index.md
+    - Technical Blog:
+        - Hugo with Travis CI on GitHub Pages: blog/hugo-with-travis-ci-on-gh-pages.md
+        - Exploring Google DeepDream: blog/exploring-google-deepdream.md
+        - Python Blog Generator: blog/pythoncms.md
+    - Musical Blog:
+        - Liszt Sonata Analysis: blog/liszt-sonata-analysis.md
+    - Media: media.md
+    - Contact: contact.md
+
+        
+site_description: 'This is the website of Martin Kaptein.'
+site_author: 'Martin Kaptein'
+site_url: 'https://martinkaptein.github.io'
+
+# Repository
+#repo_name: 'my-github-handle/my-project'
+#repo_url: 'https://github.com/my-github-handle/my-project'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Martin Kaptein'
+
+# Documentation and theme
+#if cloned from github
+#theme_dir: 'mkdocs-material/material'
+theme: 'material'
+
+# Options
+extra:
+  logo: 'images/multimedia.png'
+  #disqus: 'martinkaptein'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/martin.kaptein'
+    - type: 'twitter'
+      link: 'https://twitter.com/MartinKaptein/'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/martinkaptein'
+    - type: 'snapchat'
+      link: 'https://www.snapchat.com/add/martinkaptein'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ'
+
+# Google Analytics
+google_analytics:
+  - 'UA-86096566-1'
+  - 'auto'
+  
+#100 percent necessary extension >> include 'title: <content> or description: <content>' above in each .md file to override
+markdown_extensions:
+  - meta

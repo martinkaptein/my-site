@@ -1,16 +1,16 @@
-language: go
+language: python
 
 go:
-  - master
+  - "2.7"
 
 install:
-  - go get github.com/spf13/hugo
+  - pip install -r requirements.txt
 
 script:
-  - hugo # generate!
+  - mkdocs build # generate!
 
 deploy:
-  local_dir: public
+  local_dir: site
   repo: martinkaptein/martinkaptein.github.io
   target_branch: master
   provider: pages
@@ -20,4 +20,5 @@ deploy:
   name: "Martin Kaptein"
   on:
     branch: master
+    
     

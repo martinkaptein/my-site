@@ -1,3 +1,4 @@
-# This is the repository of my website
+# my-site
+Repository of [my website](https://martinkaptein.github.io/).
 
-My website can be found [here](https://martinkaptein.github.io/).
+Build with Travis CI.
