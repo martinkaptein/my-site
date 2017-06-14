@@ -18,6 +18,7 @@ pages:
 site_description: 'This is the website of Martin Kaptein.'
 site_author: 'Martin Kaptein'
 site_url: 'https://martinkaptein.github.io'
+site_favicon: 'images/favicon.ico'
 
 # Repository
 #repo_name: 'my-github-handle/my-project'
