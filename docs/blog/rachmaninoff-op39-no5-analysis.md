@@ -21,9 +21,9 @@ Also, this analysis is quite subjective and might contain information which is n
 
 ## Introduction
 
-The **Etude - Tableaux Op. 39 No.5 (in E flat minor)** is a virtuoso etude by **Sergei Rachmaninoff**, from the second collection of his Etudes Tableaux (the first being Op. 33), written in 1917. 
+The **Etude - Tableaux Op. 39 No.5 (in E flat minor)** is a virtuoso etude by **Sergei Rachmaninoff**, from the second collection of his Etudes Tableaux (the first being Op. 33), written in 1917. It combines an harmonically very dense texture with very lyrical, sometimes **Scriabin-esque melodies**.
 
-Both, op. 33 and op. 39 contain nine etudes. It combines an harmonically very dense texture with very lyrical, sometimes **Scriabin-esque melodies**.
+Both, op. 33 and op. 39 contain nine etudes. 
 
 The title *“Etude-Tableaux”* translates to “picture etude”, which points to a programmatic content of the etudes. 
 
