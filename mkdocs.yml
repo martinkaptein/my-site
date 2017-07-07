@@ -10,6 +10,7 @@ pages:
         - Exploring Google DeepDream: blog/exploring-google-deepdream.md
         - Python Blog Generator: blog/pythoncms.md
     - Musical Blog:
+        - Analysis of the Rachmaninoff Etude-Tableaux op.39 no.5: blog/rachmaninoff-op39-no5-analysis.md
         - Liszt Sonata Analysis: blog/liszt-sonata-analysis.md
     - Media: media.md
     - Contact: contact.md
@@ -35,7 +36,7 @@ theme: 'material'
 # Options
 extra:
   logo: 'images/multimedia.png'
-  #disqus: 'martinkaptein'
+  disqus: 'martinkaptein'
   palette:
     primary: 'indigo'
     accent: 'indigo'

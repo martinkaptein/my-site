@@ -4,7 +4,9 @@ description: PythonCMS is a static blog and site generator, written in Python 3,
 *May 18, 2017*
 
 By **Martin Kaptein**
+
 ***
+
 # PythonCMS - Static Blog Generator
 
 ## Introduction

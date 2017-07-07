@@ -4,7 +4,9 @@ description: Exploring Google DeepDream and getting very cool results. My experi
 *June 2, 2017*
 
 By **Martin Kaptein**
+
 ***
+
 # Playing around with Google's DeepDream and how to get best results
 
 In this Blog post I would like to explore Google DeepDream and report about my experiences with it.

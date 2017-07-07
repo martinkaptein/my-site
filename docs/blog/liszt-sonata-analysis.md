@@ -4,7 +4,9 @@ description: This is Martin Kaptein's analysis of the famous b minor Sonata by F
 *March 30, 2017*
 
 By **Martin Kaptein**
+
 ***
+
 # F. Liszt b minor Sonata Analysis
 
 
@@ -110,6 +112,6 @@ This chord progression has a very special effect and is, probably, one of the mo
 
 ## Conclusion
 
-As you have, probably, noticed, it is impossible to make a black - white kind of analysis of this sonata, which makes it really intresting.
+As you have, probably, noticed, it is impossible to make a black - white kind of analysis of this sonata, which makes it really interesting.
 
 In my opinion, this music isn’t meant to be nice music in a narrow sense, but it tells a story. It’s up to the performer and the listener to understand it.

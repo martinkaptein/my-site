@@ -1,5 +1,5 @@
 title: Home - Martin Kaptein
-description: My name is Martin Kaptein and I am from the Netherlands. I am a technology enthusiast and a software programmer. Furthermore, I am a very passionate musician and pianist.
+description: My name is Martin Kaptein and I am from the Netherlands. I am a musician and pianist. Furthermore, I am a technology enthusiast and a software programmer.
 
 # Welcome to my Website!
 
@@ -7,16 +7,20 @@ description: My name is Martin Kaptein and I am from the Netherlands. I am a tec
 
 ![Portrait style picture of Martin Kaptein](images/martinkaptein_portrait.jpg) 
 
-*Martin Kaptein*
+*Martin Kaptein (me)*
 
 
 ## What I do
 
-I am a technology enthusiast and a software programmer. I build stuff in my free time, some of which you can find on [my Github profile](https://github.com/martinkaptein/). I also create websites and want to build an AI.
+I am a very passionate musician and pianist. Currently, I am studying classical music in the Netherlands and regularly give concerts on demand and play in ensembles.
 
-Furthermore, I am a very passionate musician and pianist. Currently, I am studying classical music in the Netherlands and regularly give concerts on demand.
+I have a deep interest in different kinds of music and I don't exclude the possibility of composing music at some point in the future.
 
 [Contact me](contact.md) for information about my current repertoire and other requests. Also, feel free to take a look at [my YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear me playing.
+
+Furthermore, I am a technology enthusiast and a software programmer. I build stuff in my free time, some of which you can find on [my Github profile](https://github.com/martinkaptein/). I also create websites and want to build an AI.
+
+In my free time, I write articles on a variety of different topics, which you can find on this site.
 
 ***
 
@@ -32,34 +36,35 @@ Currently, for my bachelor studies, I am studying classical music for the subjec
 
 ### Natural Languages
 
-I speak English, Dutch, German and Russian fluently. Furthermore, I am quite familiar with french (and have a DELF certificate).
+I speak English, Dutch, German and Russian fluently. Furthermore, I am quite familiar with French (and have a DELF certificate).
+
+### Music experience
+
+I have a lot of experience in playing solo concerts, with wide varieties of repertoire. Also, I enjoy playing in ensembles very much. Furthermore, I participate frequently in competitions, masterclasses and festivals in different countries, for example:
+
+- 2013 International Music Festival of the Isle of Rhodes, Greece (1st price)
+- 2014 Martin Kaptein was finalist (prix promotion) in Flame Piano Competition in Paris, France
+- 2014 International Music Academy in Cremona, Italy (2nd price )
+- 2015 Martin Kaptein won the first price in the St. Cecilia International Pianocompetition in Porto, Portugal
+- 2015 and 2016 International Piano Festival in Duzsniky, Poland
+- 2016 first price Vught klassiek competition in the Netherlands
 
 ### IT experience
 
 I have experience with a wide variety of different technologies, especially Javascript and Python.
-Also, I have extended knowledge of [Wordpress](https://jekyllrb.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
-By the way, I have even [build my own static site generator](blog/pythoncms.md).
+Also, I have extended knowledge of [Wordpress](https://wordpress.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
+By the way, I have even [written my own static site generator](blog/pythoncms.md) in Python which you can find [here](blog/pythoncms.md).
 
 Besides that, I am familiar with:
 
 - [Creating websites](contact.md)
 - PHP & MySQL
 - HTML5
-- GIT, Travis CI, Netlify
+- GIT vcs, Travis CI, Netlify
 - Bash
+- UNIX stuff
 
 Furhermore, I have a very profound interest for Artificial Inteligence, Deep Neural Networks and convolutional neural networks.
-
-### Music experience
-
-I have a lot of experience in playing solo concerts but also playing in ensembles. Furthermore, I participate frequently in competitions, masterclasses and festivals in different countries.
-
-- 2013 International Music Festival of the Isle of Rhodes, Greece (1st price)
-- 2014 Martin was finalist (prix promotion) in Flame Piano Competition in Paris, France
-- 2014 International Music Academy in Cremona, Italy (2nd price )
-- 2015 Martin won the first price in the St. Cecilia International Pianocompetition in Porto, Portugal
-- 2015 and 2016 International Piano Festival in Duzsniky, Poland
-- 2016 first price Vught klassiek competition in the Netherlands
 
 ### Other interests
 

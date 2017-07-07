@@ -4,7 +4,9 @@ description: In this blog post I will show how to build your static website with
 *May 26, 2017*
 
 By **Martin Kaptein**
+
 ***
+
 # Using Hugo with Travis CI on GitHub Pages
 
 ## Introduction
