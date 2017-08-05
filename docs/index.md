@@ -48,6 +48,8 @@ I have a lot of experience in playing solo concerts, with wide varieties of repe
 - 2015 Martin Kaptein won the first price in the St. Cecilia International Pianocompetition in Porto, Portugal
 - 2015 and 2016 International Piano Festival in Duzsniky, Poland
 - 2016 first price Vught klassiek competition in the Netherlands
+- 2017 first price Ulvenhart klassiek competition in the Netherlands
+- 2017 first price International Music festival in Loutraki, Greece
 
 ### IT experience
 
