@@ -1,4 +1,4 @@
 # my-site
-Repository of [my website](https://martinkaptein.github.io/).
+Repository of [my website](https://www.martinkaptein.com/).
 
-Build with Travis CI.
+Build with Netlify.

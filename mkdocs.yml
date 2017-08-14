@@ -18,7 +18,7 @@ pages:
         
 site_description: 'This is the website of Martin Kaptein.'
 site_author: 'Martin Kaptein'
-site_url: 'https://martinkaptein.github.io'
+site_url: 'https://www.martinkaptein.com/'
 site_favicon: 'images/favicon.ico'
 
 # Repository
@@ -57,7 +57,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - 'UA-86096566-1'
+  - 'UA-86096566-3'
   - 'auto'
   
 #100 percent necessary extension >> include 'title: <content> or description: <content>' above in each .md file to override
