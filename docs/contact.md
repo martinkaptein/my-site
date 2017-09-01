@@ -6,7 +6,7 @@ description: Contact page of Martin Kaptein.
 Here you will find the contact information.
 Contact me by mail or by any social network.
 
-I will be happy to hear from you!
+Martin Kaptein will be happy to hear from you!
 
 ## Mail
 

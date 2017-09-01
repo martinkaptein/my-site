@@ -1,46 +1,47 @@
 title: Home - Martin Kaptein
-description: My name is Martin Kaptein and I am from the Netherlands. I am a musician and pianist. Furthermore, I am a technology enthusiast and a software programmer.
+description: This is the website of Martin Kaptein. Martin Kaptein is a musician, pianist, technology enthusiast and philosopher.
 
-# Welcome to my Website!
+# Welcome to the website Martin Kaptein!
 
-## My name is Martin Kaptein and I am from the Netherlands
+## Introduction
 
 ![Portrait style picture of Martin Kaptein](images/martinkaptein_portrait.jpg) 
 
-*Martin Kaptein (me)*
+*Martin Kaptein*
 
+> Martin Kaptein is a musician, tech enthusiast and philosopher
 
-## What I do
+## Work
 
-I am a very passionate musician and pianist. Currently, I am studying classical music in the Netherlands and regularly give concerts on demand and play in ensembles.
+Martin Kaptein is a very passionate musician and pianist. Currently, Martin is studying classical music in the Netherlands and regularly gives concerts on demand and plays in ensembles.
 
-I have a deep interest in different kinds of music and I don't exclude the possibility of composing music at some point in the future.
+Martin has a deep interest in different kinds of music and doesn't exclude the possibility of composing music at some point in the future.
 
-[Contact me](contact.md) for information about my current repertoire and other requests. Also, feel free to take a look at [my YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear me playing.
+[Contact Martin](contact.md) for information about his current repertoire and other requests. Also, feel free to take a look at [the YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear Martin playing.
 
-Furthermore, I am a technology enthusiast and a software programmer. I build stuff in my free time, some of which you can find on [my Github profile](https://github.com/martinkaptein/). I also create websites and want to build an AI.
+Furthermore, Martin is a technology enthusiast and a software programmer. Martin builds stuff in his free time, some of which can be found on [his Github profile](https://github.com/martinkaptein/).
 
-In my free time, I write articles on a variety of different topics, which you can find on this site.
+In his free time, Martin writes articles on a variety of different topics, which you can find on this site.
 
 ***
 
-## My Resume
+## Resume
 
 ### Highschool
 
-In 2015, I finished the general qualification for university entrance (=Abitur) in Germany (Gymnasium). Thus, I have an advanced school-leaving certificate with splendid marks.
+In 2015, Martin Kaptein finished the general qualification for university entrance (=Abitur) in Germany (Gymnasium). Thus, he has an advanced school-leaving certificate with splendid marks.
 
 ### Bachelor
 
-Currently, for my bachelor studies, I am studying classical music for the subject of classical piano at the ArtEz conservatory in Zwolle, the Netherlands.
+Currently, for the bachelor studies, Martin Kaptein is studying classical music for the subject of classical piano at the ArtEz conservatory in Zwolle, the Netherlands.
 
 ### Natural Languages
 
-I speak English, Dutch, German and Russian fluently. Furthermore, I am quite familiar with French (and have a DELF certificate).
+Martin Kaptein speaks English, Dutch, German and Russian fluently. Furthermore, he is quite familiar with French (and has a DELF certificate).
 
 ### Music experience
 
-I have a lot of experience in playing solo concerts, with wide varieties of repertoire. Also, I enjoy playing in ensembles very much. Furthermore, I participate frequently in competitions, masterclasses and festivals in different countries, for example:
+Martin Kaptein has a lot of experience in playing solo concerts, with wide varieties of repertoire. Also, Martin enjoys playing in ensembles very much. Furthermore, Martin participates frequently in competitions, masterclasses and festivals in different countries, for example:
 
 - 2013 International Music Festival of the Isle of Rhodes, Greece (1st price)
 - 2014 Martin Kaptein was finalist (prix promotion) in Flame Piano Competition in Paris, France
@@ -53,11 +54,11 @@ I have a lot of experience in playing solo concerts, with wide varieties of repe
 
 ### IT experience
 
-I have experience with a wide variety of different technologies, especially Javascript and Python.
-Also, I have extended knowledge of [Wordpress](https://wordpress.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
-By the way, I have even [written my own static site generator](blog/pythoncms.md) in Python which you can find [here](blog/pythoncms.md).
+Martin Kaptein has experience with a wide variety of different technologies, especially Javascript and Python.
+Also, Martin has extended knowledge of [Wordpress](https://wordpress.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
+By the way, Martin has [written his own static site generator](blog/pythoncms.md) in Python which you can find [here](blog/pythoncms.md).
 
-Besides that, I am familiar with:
+Besides that, Martin Kaptein is familiar with:
 
 - [Creating websites](contact.md)
 - PHP & MySQL
@@ -66,9 +67,9 @@ Besides that, I am familiar with:
 - Bash
 - UNIX stuff
 
-Furhermore, I have a very profound interest for Artificial Inteligence, Deep Neural Networks and convolutional neural networks.
+Furhermore, Martin Kaptein has a very profound interest for Artificial Inteligence.
 
 ### Other interests
 
-I read a lot of books and like to take pictures. For latter, I suggest to head to my Instagram [@martinkaptein](https://www.instagram.com/martinkaptein/).
+In his free time Martin Kaptein is a philosopher, reads a lot and likes to take pictures. For latter, it is suggested to head to his Instagram [@martinkaptein](https://www.instagram.com/martinkaptein/).
 

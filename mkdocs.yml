@@ -18,7 +18,7 @@ pages:
         
 site_description: 'This is the website of Martin Kaptein.'
 site_author: 'Martin Kaptein'
-site_url: 'https://www.martinkaptein.com/'
+site_url: 'https://www.martinkaptein.com'
 site_favicon: 'images/favicon.ico'
 
 # Repository
