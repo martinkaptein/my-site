@@ -1,4 +1,6 @@
 # my-site
+
+Note: Old site, deprecated.
 Repository of [my website](https://www.martinkaptein.com/).
 
 Build with mkdocs, github and netlify.
